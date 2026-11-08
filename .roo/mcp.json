@@ -1,0 +1,23 @@
+{
+  "mcpServers": {
+    "filesystem": {
+      "command": "C:\\Program Files\\nodejs\\node.exe",
+      "args": [
+        "C:\\Users\\cavo center\\AppData\\Roaming\\npm\\node_modules\\@modelcontextprotocol\\server-filesystem\\dist\\index.js",
+        "D:\\Games\\Mount&Blade Warband\\MountBlade Warband\\Modules\\Native Tactical 2"
+      ],
+      "disabled": false,
+      "alwaysAllow": [
+        "read_text_file",
+        "read_multiple_files",
+        "read_media_file",
+        "list_directory",
+        "list_directory_with_sizes",
+        "directory_tree",
+        "search_files",
+        "get_file_info",
+        "list_allowed_directories"
+      ]
+    }
+  }
+}
